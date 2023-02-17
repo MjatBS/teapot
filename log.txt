@@ -1,0 +1,30 @@
+INFO:root:Turn on
+INFO:root:5.0
+INFO:root:10.0
+INFO:root:15.0
+INFO:root:20.0
+INFO:root:25.0
+INFO:root:30.0
+INFO:root:35.0
+INFO:root:40.0
+INFO:root:45.0
+INFO:root:50.0
+INFO:root:55.0
+INFO:root:60.0
+INFO:root:65.0
+INFO:root:70.0
+INFO:root:75.0
+INFO:root:80.0
+INFO:root:85.0
+INFO:root:90.0
+INFO:root:95.0
+INFO:root:Boiled
+INFO:root:Turn on
+INFO:root:5.0
+INFO:root:10.0
+INFO:root:15.0
+INFO:root:20.0
+INFO:root:25.0
+INFO:root:30.0
+INFO:root:35.0
+INFO:root:Turn off

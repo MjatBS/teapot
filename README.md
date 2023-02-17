@@ -8,9 +8,13 @@ To run code
 4) Start server: uvicorn main:app --host 127.0.0.1 --port 8000
 5) Go to documentation: open in browser 127.0.0.1:8000/docs
 
-Realized on FastAPI
-Realized documentation, logging, .env
+Additionally realized:
+1) on FastAPI web framework
+2) documentation
+3) logging
+4) .env
+
 
 To update: 
-    add async logger
-    create websocket endpoint to listen logger
+1) add async logger
+2) create websocket endpoint to listen logger
